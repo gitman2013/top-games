@@ -48,8 +48,8 @@ h2 {
 .menu {
 	font-size: 30px;
 	padding: 15px;
-	
-	
+
+
 }
 
 .menuitem {
@@ -61,5 +61,37 @@ h2 {
 	display: inline-block;
 	text-decoration: none;
 	color: #812807;
-	box-shadow:5px 5px 5px #812807;
+	box-shadow: 5px 5px 5px #812807;
+}
+
+table {
+	width: 80%;
+	margin: auto;
+}
+
+caption {
+	color: #4B0082;
+	font-size: 40px;
+	text-shadow: 2px 2px 6px black;
+	padding: 20px;
+}
+
+td {
+	background-color: rgb(255, 255, 255);
+}
+
+.basic {
+	background: #ff1083;
+}
+
+.pro {
+	background: #0083f5;
+}
+
+.gold {
+	background: #6400de;
+}
+
+.platinum {
+	background: #fca104;
 }
